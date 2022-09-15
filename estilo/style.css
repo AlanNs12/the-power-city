@@ -101,9 +101,11 @@ main h1 {
     margin: 8px;
     padding: 0px;
     font-family: 'Helsinki';
+    word-spacing: 5px;
     font-size: 0.8em;
 }
 .links p {
+    
     line-height: 29px;
 }
 .links a {
@@ -124,7 +126,9 @@ main h1 {
     padding: 10px;
     font-size: 1em;
 }
-
+#textenf {
+    color: red;
+}
 footer {
     text-align: center;
     margin: 10px;
