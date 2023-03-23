@@ -93,6 +93,11 @@ main h1 {
     background-repeat: no-repeat;
     background-size: 100%;
 }
+#c3 {
+    background-image: url('../imagens/sol-nascente-ori.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 .links {
     display: flex;
     flex-direction: column;
