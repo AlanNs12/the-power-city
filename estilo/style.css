@@ -80,21 +80,21 @@ main h1 {
     transition: 0.2s;
 }
 .capas:hover {
-    scale: 1.2;
+    scale: 1.3;
     margin: 20px;
 }
 #c1 {
-    background-image: url('../imagens/novomundo-160px.png');
+    background-image: url('../imagens/cap-1-novo.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
 }
 #c2 {
-    background-image: url('../imagens/hereditaria-160px.png');
+    background-image: url('../imagens/cap-2-novo.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
 }
 #c3 {
-    background-image: url('../imagens/sol-nascente-ori.png');
+    background-image: url('../imagens/cap-3-novo.png');
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -132,6 +132,7 @@ main h1 {
     font-size: 1em;
 }
 #textenf {
+    font-size: large;
     color: red;
 }
 footer {
